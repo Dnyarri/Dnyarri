@@ -2,10 +2,6 @@
 
 **where the Toad intercourses Python**
 
-[POVmosaic](https://github.com/Dnyarri/POVmosaic)
-
-![Example of POVmosaic project.](boxeye.png)
-
-[img2mesh - PNG to POV converter](https://github.com/Dnyarri/img2mesh)
-
-![Example of img2mesh project.](ycoin.png)
+| [POVmosaic - turning images into solid mosaics](https://github.com/Dnyarri/POVmosaic) | [img2mesh - PNG to POV triangle mesh converter](https://github.com/Dnyarri/img2mesh) |
+|------|-----------|
+| ![Example of POVmosaic project.](boxeye.png) | ![Example of img2mesh project.](ycoin.png) |

@@ -2,7 +2,9 @@
 
 **where the Toad intercourses Python**
 
-*for example:*
+[POVmosaic](https://github.com/Dnyarri/POVmosaic)
+
+![Example of POVmosaic project.](boxeye.png)
 
 [img2mesh - PNG to POV converter](https://github.com/Dnyarri/img2mesh)
 
